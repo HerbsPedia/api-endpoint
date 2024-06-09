@@ -53,17 +53,13 @@ The base URL for almost all API endpoints is: `https://api-endpoint-dgonny5rzq-e
 
   ```json
   {
-  "id" :10,
+  "id" :1,
   "nama": "Akar brotowali",
   "deskripsi": "Akar brotowali adalah bagian dari tanaman brotowali (Tinospora crispa) yang tumbuh di wilayah tropis seperti Indonesia, India, dan Filipina. Tanaman ini dikenal dengan batangnya yang menjalar dan memiliki permukaan kasar serta daunnya yang berbentuk hati. Akar brotowali memiliki tekstur keras dan warna cokelat hingga abu-abu, dengan rasa yang sangat pahit. Tanaman ini tumbuh subur di daerah hutan atau tempat dengan kelembapan tinggi dan sering ditemukan merambat pada pohon atau pagar.",
   "kegunaan": "Akar brotowali telah lama digunakan dalam pengobatan tradisional untuk berbagai manfaat kesehatan. Akar ini dikenal karena sifatnya yang antipiretik, antidiabetik, antiinflamasi, dan imunomodulator. Ekstrak dari akar brotowali sering digunakan untuk menurunkan demam, mengatasi gangguan pencernaan, dan membantu mengontrol kadar gula darah pada penderita diabetes. Selain itu, akar brotowali juga dipercaya dapat memperkuat sistem kekebalan tubuh, membantu detoksifikasi, dan meredakan nyeri serta peradangan pada kondisi seperti arthritis. Dengan kandungan senyawa aktif seperti alkaloid, flavonoid, dan terpenoid, akar brotowali menjadi salah satu bahan alami yang bermanfaat dalam menjaga kesehatan secara keseluruhan."
 
   }
-  {
-  "id": 11,
-  "nama": "Batang Brotowali",
-  "deskripsi": "Batang brotowali (Tinospora crispa), yang dikenal dengan rasa pahitnya yang khas, memiliki beragam manfaat kesehatan yang penting. Batang ini mengandung berbagai senyawa bioaktif seperti alkaloid, flavonoid, dan saponin yang memberikan sifat antipiretik (penurun demam), antiinflamasi, dan antimalaria. Secara tradisional, batang brotowali digunakan untuk menurunkan demam, mengatasi malaria, dan meredakan nyeri akibat peradangan. Selain itu, batang brotowali juga dikenal efektif dalam meningkatkan nafsu makan dan membantu mengontrol kadar gula darah, menjadikannya pilihan alami yang bermanfaat bagi penderita diabetes. Dengan kemampuannya untuk meningkatkan sistem kekebalan tubuh dan membantu detoksifikasi, batang brotowali merupakan salah satu herbal yang sangat dihargai dalam pengobatan tradisional untuk menjaga kesehatan secara keseluruhan. "
-  }
+
 
   ```
 
