@@ -45,7 +45,7 @@ The base URL for almost all API endpoints is: `https://api-endpoint-dgonny5rzq-e
 
 #### 2. Get Plant by ID
 
-- _Endpoint:_ GET /api/plants/:id
+- _Endpoint:_ GET /api/plants/1
 - _Description:_ Returns herbal plant data based on a specific ID.
 - _Parameters:_
   - id: The unique ID of the herb you want to take.
@@ -62,14 +62,7 @@ The base URL for almost all API endpoints is: `https://api-endpoint-dgonny5rzq-e
   {
   "id": 11,
   "nama": "Batang Brotowali",
-  "deskripsi": "Batang brotowali (Tinospora crispa), yang dikenal dengan rasa pahitnya yang khas, memiliki beragam manfaat kesehatan yang penting. Batang ini mengandung berbagai senyawa bioaktif seperti alkaloid, flavonoid, dan saponin yang memberikan sifat antipiretik (penurun demam), antiinflamasi, dan antimalaria. Secara tradisional, batang brotowali digunakan untuk menurunkan demam, mengatasi malaria, dan meredakan nyeri akibat peradangan. Selain itu, batang brotowali juga dikenal efektif dalam meningkatkan nafsu makan dan membantu mengontrol kadar gula darah, menjadikannya pilihan alami yang bermanfaat bagi penderita diabetes. Dengan kemampuannya untuk meningkatkan sistem kekebalan tubuh dan membantu detoksifikasi, batang brotowali merupakan salah satu herbal yang sangat dihargai dalam pengobatan tradisional untuk menjaga kesehatan secara keseluruhan. ",
-  "kegunaan": "Batang brotowali (Tinospora crispa) memiliki berbagai kegunaan kesehatan yang penting, terutama dalam pengobatan tradisional. Sifat antipiretiknya menjadikan batang ini efektif untuk menurunkan demam, sementara sifat antiinflamasinya membantu meredakan nyeri dan peradangan. Brotowali juga dikenal dengan kemampuannya untuk mengatasi malaria dan berbagai infeksi lainnya berkat kandungan senyawa bioaktifnya. Selain itu, batang brotowali dapat membantu meningkatkan nafsu makan, memperbaiki sistem pencernaan, dan mengontrol kadar gula darah, sehingga bermanfaat bagi penderita diabetes. Dengan kemampuannya untuk memperkuat sistem kekebalan tubuh dan mendetoksifikasi, batang brotowali menjadi pilihan alami yang berharga untuk menjaga kesehatan secara menyeluruh."
-  }
-  {
-  "id": 12,
-  "nama": "Batang Sukun",
-  "deskripsi": "Batang sukun (Artocarpus altilis), dikenal sebagai bagian penting dari pohon sukun, memiliki beragam manfaat kesehatan yang signifikan. Batang sukun mengandung senyawa bioaktif seperti flavonoid, tanin, dan saponin yang memiliki sifat antioksidan, antiinflamasi, dan antimikroba. Kandungan ini membuat batang sukun efektif dalam melawan radikal bebas, mengurangi peradangan, dan membantu dalam penyembuhan luka. Secara tradisional, batang sukun digunakan untuk mengobati berbagai kondisi kesehatan seperti nyeri sendi, radang, dan infeksi kulit. Selain itu, ekstrak dari batang sukun juga diketahui dapat memperkuat sistem kekebalan tubuh dan meningkatkan kesehatan secara keseluruhan. Dengan kombinasi khasiatnya yang luas, batang sukun merupakan herbal yang sangat berharga dalam menjaga dan meningkatkan kesehatan.",
-  "kegunaan": "Batang sukun (Artocarpus altilis) memiliki berbagai kegunaan kesehatan yang penting, terutama dalam pengobatan tradisional. Senyawa bioaktif yang terkandung dalam batang sukun, seperti flavonoid, tanin, dan saponin, memberikan sifat antioksidan yang kuat untuk melawan radikal bebas dan mengurangi risiko penyakit kronis. Sifat antiinflamasi batang sukun membantu meredakan peradangan dan nyeri sendi, sementara sifat antimikrobanya efektif dalam mengatasi infeksi kulit dan mempercepat penyembuhan luka. Selain itu, batang sukun dapat memperkuat sistem kekebalan tubuh, membantu dalam detoksifikasi, dan mendukung kesehatan secara keseluruhan. Dengan manfaat yang luas ini, batang sukun menjadi salah satu herbal yang berharga untuk mendukung kesehatan dan kesejahteraan tubuh."
+  "deskripsi": "Batang brotowali (Tinospora crispa), yang dikenal dengan rasa pahitnya yang khas, memiliki beragam manfaat kesehatan yang penting. Batang ini mengandung berbagai senyawa bioaktif seperti alkaloid, flavonoid, dan saponin yang memberikan sifat antipiretik (penurun demam), antiinflamasi, dan antimalaria. Secara tradisional, batang brotowali digunakan untuk menurunkan demam, mengatasi malaria, dan meredakan nyeri akibat peradangan. Selain itu, batang brotowali juga dikenal efektif dalam meningkatkan nafsu makan dan membantu mengontrol kadar gula darah, menjadikannya pilihan alami yang bermanfaat bagi penderita diabetes. Dengan kemampuannya untuk meningkatkan sistem kekebalan tubuh dan membantu detoksifikasi, batang brotowali merupakan salah satu herbal yang sangat dihargai dalam pengobatan tradisional untuk menjaga kesehatan secara keseluruhan. "
   }
 
   ```
