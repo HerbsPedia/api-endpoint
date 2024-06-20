@@ -57,7 +57,7 @@ The base URL for almost all API endpoints is: `https://api-endpoint-dgonny5rzq-e
 - _Response Body Example:_
 
   ```json
- {
+  {
         "id" :1,
         "kategory" : "Daun",
         "nama": "Belimbing Wuluh",
