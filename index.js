@@ -18,6 +18,19 @@ app.get('/api/plants/:id', (req, res) => {
     }
 });
 
+// Endpoint untuk menampilkan tanaman berdasarkan kategori
+app.get('/api/plants/kategory/:kategory', (req, res) => {
+    const kategory = req.params.kategory.toLowerCase();
+    const plantsInCategory = plantsData.filter(plant => 
+        plant.kategory && plant.kategory.toLowerCase() === kategory
+    );
+    if (plantsInCategory.length === 0) {
+        res.status(404).json({ error: 'Tanaman dengan kategori tersebut tidak ditemukan' });
+    } else {
+        res.json(plantsInCategory);
+    }
+});
+
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
     console.log(`Server berjalan pada port ${PORT}`);
